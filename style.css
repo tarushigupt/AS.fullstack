@@ -1,0 +1,44 @@
+body{
+    background-image: url("IITB image.jpg");
+    background-size: cover;
+}
+header{
+    background-color: #003262;
+    color:white;
+    text-align: center;
+}
+.nav-logo{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    background-color: #003262;
+    margin-bottom: 20px;
+
+
+}
+a{
+    padding: 10px;
+    color: white;
+   
+}
+
+section {
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+            background-color: white;
+            margin-bottom: 20px;
+            border-radius: 8px;
+        }
+a:hover{
+    color:chocolate;
+}
+        h2 {
+            color: #003262;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #003262;
+            color: white;
+        }
